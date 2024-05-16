@@ -1,4 +1,4 @@
-some_var = "Math is great!"
+some_var = "Math is awesome!"
 
 def add(a, b):
     """Addition function"""
